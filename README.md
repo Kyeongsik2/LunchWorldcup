@@ -1,4 +1,10 @@
 # LunchWorldcup
+- 참여 인원 : 3명
+- 내 역할 : 게시판 기능, 월드컵 기능 구현
+
+# 개발 환경
+- 개발 언어 : Java, JavaScript, HTML, CSS, SQL(Oracle Datebase)
+- Tool : Spring, sqlDeveloper
 
 ![image](https://user-images.githubusercontent.com/106687047/182360041-9485215a-e26d-4c5f-866c-e275b4f4d7a7.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359284-28166f5f-0fdf-4af7-8eee-f6daac654dd5.png)
@@ -24,3 +30,6 @@
 # 프로젝트 활동 이후 추가 한 기능
 - 추천, 취소 기능
 ![image](https://user-images.githubusercontent.com/106687047/182365495-3f96c9c9-753e-4301-90b3-2583d492bdbf.png)
+
+# 앞으로 추가 하고 싶은 기능
+- 게시판 목록에서 조회순, 추천순 정렬
