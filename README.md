@@ -20,3 +20,7 @@
 ![image](https://user-images.githubusercontent.com/106687047/182362024-32b36870-87a5-40b0-ac63-3fcf6cef1772.png)
 ![image](https://user-images.githubusercontent.com/106687047/182362036-59bc72ee-a8e4-4500-800a-fde50e612342.png)
 ![image](https://user-images.githubusercontent.com/106687047/182362044-161f413a-fccb-4abd-95d6-722cd986f2a1.png)
+
+# 프로젝트 활동 이후 추가 한 기능
+- 추천, 취소 기능
+![image](https://user-images.githubusercontent.com/106687047/182365495-3f96c9c9-753e-4301-90b3-2583d492bdbf.png)
