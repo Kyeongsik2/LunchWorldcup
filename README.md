@@ -1,6 +1,6 @@
 # LunchWorldcup
 
-![image](https://user-images.githubusercontent.com/106687047/182359258-47d057ce-e1d0-4bc8-b30a-308289bd1367.png)
+![image](https://user-images.githubusercontent.com/106687047/182360041-9485215a-e26d-4c5f-866c-e275b4f4d7a7.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359284-28166f5f-0fdf-4af7-8eee-f6daac654dd5.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359328-adb8dcb4-bcd5-4b9b-8746-697b0d1c0bba.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359340-9e178a2f-aa0d-4242-8a1a-f450755da509.png)
