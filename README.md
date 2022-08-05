@@ -6,7 +6,7 @@
 - 개발 언어 : Java, JavaScript, HTML, CSS, SQL(Oracle Datebase)
 - Tool : Spring, sqlDeveloper
 
-# 결과물
+# 화면 정의서
 ![image](https://user-images.githubusercontent.com/106687047/182360041-9485215a-e26d-4c5f-866c-e275b4f4d7a7.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359284-28166f5f-0fdf-4af7-8eee-f6daac654dd5.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359328-adb8dcb4-bcd5-4b9b-8746-697b0d1c0bba.png)
@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/106687047/182359390-4967d41c-da32-4734-b106-5af682eeb892.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359396-c2694d3f-cde3-4187-b172-f99327238f9d.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359399-57bb36e5-2b32-4279-9398-b5b3887c3cca.png)
+# 결과물
 ![image](https://user-images.githubusercontent.com/106687047/182359410-05632578-479a-4b14-aba3-6611cfcba43d.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359419-bc930236-d3f4-4604-bc88-7d9f41c76352.png)
 ![image](https://user-images.githubusercontent.com/106687047/182359431-e4d744c8-97ac-4bd6-a4e4-b1c13ceb5657.png)
