@@ -1,10 +1,11 @@
 # LunchWorldcup
 - 참여 인원 : 3명
-- 내 역할 : 게시판 기능, 월드컵 기능 구현
+- 팀원1(데이터 베이스, 로그인 기능), 팀원2/본인(월드컵 기능, 게시판 기능)
 
 # 개발 환경
 - 개발 언어 : Java, JavaScript, HTML, CSS, SQL(Oracle Datebase)
 - Tool : Spring, sqlDeveloper
+- 데이터 베이스는 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
 
 # 화면 정의서
 ![image](https://user-images.githubusercontent.com/106687047/182360041-9485215a-e26d-4c5f-866c-e275b4f4d7a7.png)
