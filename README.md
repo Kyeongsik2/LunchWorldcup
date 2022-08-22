@@ -5,7 +5,9 @@
 # 개발 환경
 - 개발 언어 : Java, JavaScript, HTML, CSS, SQL(Oracle Datebase)
 - Tool : Spring, sqlDeveloper
-- 데이터 베이스는 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
+- 데이터 베이스 : MyBtis를 이용 SQL문은 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
+- 로그인 기능 : Spring Security
+- 파일 업로드 : Ajax
 
 # 화면 정의서
 ![image](https://user-images.githubusercontent.com/106687047/182360041-9485215a-e26d-4c5f-866c-e275b4f4d7a7.png)
@@ -42,5 +44,5 @@
 - 다시 개발을 하게 된다면 새로운 환경에서 처음부터 간결하게 코드를 작성하고 관계 더 깊게 이해 하며 구현해 볼 계획이다.
 - 첫 팀 프로젝트 중 불편했던 사항은 파일, 코드 공유가 힘들었다.
 - 문제점을 개선하고 팀 활동을 위해 Git을 통한 개발 과정을 공부하게 되었다.
-- 기본적인 SQL문, Ajax의 이해, Mybatis의 동작 원리 등을 이해 하고 활용 하는 능력이 길러졌다.
+- 기본적인 SQL문, Ajax의 활용, Spring Security와 Mybatis의 동작 원리 등을 이해 하고 활용 하는 능력이 길러졌다.
 
