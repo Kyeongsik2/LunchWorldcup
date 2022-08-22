@@ -4,7 +4,7 @@
 
 # 개발 환경
 - 개발 언어 : Java, JavaScript, HTML, CSS, SQL(Oracle Datebase)
-- Tool : Spring, sqlDeveloper
+- Tool : STS(Spring Tool Suite), sqlDeveloper
 - 데이터 베이스 : MyBtis를 이용 SQL문은 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
 - 로그인 기능 : Spring Security
 - 파일 업로드 : Ajax
