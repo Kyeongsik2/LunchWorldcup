@@ -8,7 +8,7 @@
 - Tool : STS(Spring Tool Suite), sqlDeveloper
 - Server : Tomcat 9.0
 - Web Browser : Google Chrome
-- 데이터 베이스 : MyBtis를 이용 SQL문은 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
+- 데이터 베이스 : MyBatis를 이용 SQL문은 \src\main\webapp\WEB-INF\sql 에 저장해 두었다.
 - 로그인 기능 : Spring Security
 - 파일 업로드 : Ajax
 - 월드컵 기능 : Java Script
